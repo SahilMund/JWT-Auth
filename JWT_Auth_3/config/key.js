@@ -1,0 +1,4 @@
+module.exports = {
+    DB_CONNECT:" mongodb://127.0.0.1:27017/new",
+    TOKEN_SECRET:"gjoidjdwjddpokhw"
+}
